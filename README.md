@@ -46,10 +46,10 @@ Me gusta aprender por necesidad propia: aprendí Django porque no quería seguir
 |---|---|---|---|
 | [jasio-dev.com](https://jasio-dev.com) | Portfolio personal | React, AWS S3 | ✅ En producción |
 | [MaryMemories](https://www.marymemories.es/home) | App fullstack como regalo personal | Spring Boot, Angular, Ionic, Oracle, AWS | ✅ En producción |
-| [Basic Web Incidencias](https://github.com/Jackmanek/basic-web-incidencias) | Prueba técnica profesional — gestor multi-rol con 90% cobertura de tests | Stack TALL, Docker, Nginx | 🧪 Prueba técnica |
+| [Basic Web Incidencias](https://github.com/Jackmanek/incidenciasApp) | Prueba técnica profesional — gestor multi-rol con 90% cobertura de tests | Stack TALL, Docker, Nginx | 🧪 Prueba técnica |
 | [MuxicOn](https://github.com/Jackmanek/muxicon) | Reproductor de música propio — alternativa casera a Spotify | Django, Angular, Ionic, Ubuntu Server | 🔧 Personal |
-| [Padel Social Ligue](https://github.com/Jackmanek/padel-social-ligue) | Gestor de liga de pádel con scraping de noticias | Spring Boot, Spring Security, Thymeleaf | 🎓 Académico |
-| [DaWnswer](https://github.com/Jackmanek/dawnswer) | Foro multi-rol para alumnos de DAW | Laravel, Docker, AWS EC2/RDS/S3 | 🎓 Académico |
+| [Padel Social Ligue](https://github.com/Jackmanek/padelliga) | Gestor de liga de pádel con scraping de noticias | Spring Boot, Spring Security, Thymeleaf | 🎓 Académico |
+| [DaWnswer](https://github.com/Jackmanek/retosg3/tree/faseFinal) | Foro multi-rol para alumnos de DAW | Laravel, Docker, AWS EC2/RDS/S3 | 🎓 Académico |
 
 ---
 
